@@ -1,5 +1,7 @@
 # stompl
 
+_Note: this no long works and please refer to this fork: https://github.com/JanWielemaker/stompl_
+
 A [STOMP](http://stomp.github.io) client.
 
 ## Installation
